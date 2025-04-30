@@ -7,4 +7,4 @@
 
 
 
-api/top-langs?username=anyoussef
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyoussef&layout=compact&langs_count=8&theme=default)
