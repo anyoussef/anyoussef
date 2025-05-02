@@ -15,3 +15,6 @@
 # Some interesting stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyoussef&layout=compact&langs_count=8&theme=default)
+
+# Future projects
+- Using Go to create a webserver and requesting Lichess API to server random puzzles and load them in a webpage.
