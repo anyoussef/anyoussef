@@ -18,3 +18,4 @@
 
 # Future projects
 - Using Go to create a webserver and requesting Lichess API to server random puzzles and load them in a webpage.
+- Working on matering EMACS since it is a superior text editor. 
